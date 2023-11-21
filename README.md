@@ -23,11 +23,11 @@ This repository contains the code and documentation for a machine learning proje
   * Normalize data for consistent modeling
   * Feature engineering for enhanced predictions
 
-#Conclusions
-After thorough analysis and modeling, several insights were derived:
+# Conclusions
+-After thorough analysis and modeling, several insights were derived:
 
 -1 Seasonal Sales Patterns:
-*Sales exhibit an upward trend during the summer months.
+ Sales exhibit an upward trend during the summer months.
 -2 Holiday Impact:
 Sales rates are notably higher during holidays compared to regular days.
 -3 Store Variance:
