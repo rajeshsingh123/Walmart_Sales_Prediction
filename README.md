@@ -2,6 +2,15 @@
 # Overview
 This repository contains the code and documentation for a machine learning project focused on predicting Walmart sales. The project utilizes a dataset sourced from Kaggle, involving a series of data preprocessing, exploration, and modeling steps to achieve accurate predictions.
 
+# Tools and Technologies:
+  * Python
+  * Jupyter Notebooks
+  * Scikit-Learn
+  * Pandas
+  * NumPy
+  * Matplotlib
+  * Seaborn
+
 # Project Structure
 * Data Exploration
   * Data preprocessing
